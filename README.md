@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alvin Putra
+# 👋 Hi, I'm Alvin 
 
 🚀 Flutter Developer in Progress  
 
@@ -8,22 +8,12 @@ My goal is to become a **professional mobile developer** and contribute to build
 
 ---
 
-## 🧠 Currently Learning
-
-- Flutter & Dart
-- Clean Architecture
-- Bloc Pattern
-- Repository Pattern
-- Dependency Injection
-- Scalable Project Architecture
-
----
-
 ## 🛠 Tech Stack
 
 ### Mobile Development
 - Flutter
 - Dart
+- Kotlin
 
 ### Architecture & Patterns
 - Clean Architecture
@@ -38,26 +28,6 @@ My goal is to become a **professional mobile developer** and contribute to build
 - Generics
 - Mixins
 - Extensions
-
----
-
-## 📂 Featured Projects
-
-### 📱 Task Manager App
-A simple Flutter application implementing **CRUD functionality** using Clean Architecture.  
-This project focuses on improving architecture understanding and coding structure.
-
-### 🛒 Product App
-Practice project built to learn **repository pattern, models, and data flow** in Flutter applications.
-
----
-
-## 🎯 Current Focus
-
-- Improving Flutter architecture skills
-- Practicing scalable project structure
-- Strengthening problem-solving ability
-- Building portfolio projects
 
 ---
 
