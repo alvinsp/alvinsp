@@ -66,8 +66,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinsp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Alvin's GitHub Stats" />
- [ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />](https://github-readme-stats-alvin.vercel.app/api?username=alvinsp&show_icons=true&theme=tokyonight&count_private=true)
+  <img src="https://github-readme-stats-alvin.vercel.app/api?username=alvinsp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="150" alt="Alvin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <br/>
